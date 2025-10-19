@@ -103,7 +103,7 @@ Dado el plazo de 4 semanas, el proyecto adopta una filosofía MVP enfocándose e
 
 ### 1. Clonar el Repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/collabspace.git
+git clone https://github.com/Cr4wl3rPy/collabspace.git
 cd collabspace
 ```
 
@@ -379,7 +379,7 @@ npm test
 
 - **Aplicación Web:** 🚧 *En desarrollo*
 - **Video Demo:** 🚧 *Próximamente en Semana 4*
-- **Repositorio:** [GitHub - CollabSpace](https://github.com/TU-USUARIO/collabspace)
+- **Repositorio:** [GitHub - CollabSpace](https://github.com/Cr4wl3rPy/collabspace)
 
 ---
 
@@ -417,7 +417,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 **Equipo CollabSpace**
 
-- 🐙 GitHub: [@Cr4wl3rPy](https://github.com/TU-USUARIO/collabspace)
+- 🐙 GitHub: [@Cr4wl3rPy](https://github.com/Cr4wl3rPy/collabspace)
 - 📧 Email: *Se agregará próximamente*
 
 ---
