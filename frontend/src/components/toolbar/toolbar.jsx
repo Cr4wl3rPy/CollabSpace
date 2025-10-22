@@ -1,8 +1,10 @@
-export default function Toolbar({ color, setColor }) {
-  return (
-    <div className="flex items-center gap-3 bg-gray-100 p-3 rounded-lg shadow">
-      <label className="text-sm font-semibold">Color:</label>
-      <input type="color" value={color} onChange={(e) => setColor(e.target.value)} />
-    </div>
-  );
-}
+import React from "react";
+
+const Toolbar = () => (
+  <div className="flex justify-center gap-4">
+    <button className="px-3 py-1 bg-blue-500 text-white rounded">Tool 1</button>
+    <button className="px-3 py-1 bg-blue-500 text-white rounded">Tool 2</button>
+  </div>
+);
+
+export default Toolbar;

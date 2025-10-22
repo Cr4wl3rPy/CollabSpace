@@ -1,10 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import App from './App.jsx';
-import './index.css'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import Room from "./Room";
+import "./index.css";
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+const testUser = { name: "Alex" };
+const testRoomId = "Sala-1";
+
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <App />
+    <Room user={testUser} roomId={testRoomId} />
   </React.StrictMode>
 );
